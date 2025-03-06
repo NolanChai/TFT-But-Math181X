@@ -1,0 +1,6 @@
+{
+    "sites" : [
+        {"domain":"MetaTFT", "subdomain":"xx"},
+        {"domain":"tactics.tools", "subdomain":"xx"}
+    ]
+}
